@@ -19,4 +19,4 @@
 
 
 ### 💻 Workspace Spec
-[![LeetCode Stats](https://leetcode.card.workers.dev/sanjuzzz28?theme=auto&font=baloo&extension=null)](https://leetcode.com/sanjuzzz28)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanjuzzz28?theme=dark&font=Cinzel&ext=heatmap)
