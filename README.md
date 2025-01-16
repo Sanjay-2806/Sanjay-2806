@@ -20,3 +20,5 @@
 
 ### 💻 Workspace Spec
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sanjuzzz28?theme=dark&font=Cinzel&ext=heatmap)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sanjuzzz28)
